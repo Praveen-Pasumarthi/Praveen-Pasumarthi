@@ -31,12 +31,8 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 - Cross-Platform Products
 - Game Development
 - Physics-Based Gameplay
-- AI-Powered Fitness Tools
 - Computer Vision Interfaces
-- Local-First App Data
-- Procedural Level Design
 - Interactive Web Experiences
-- Product UI Polish
 
 ---
 
@@ -109,21 +105,6 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 
 ### Tech Stack
 `Dart` `Flutter` `Flame` `shared_preferences` `iOS` `Android`
-
----
-
-## ⚡ Kinetic Fitness Tracker
-
-- AI-powered fitness tracker built with React Native and Expo
-- Uses pose tracking concepts for workout form and movement feedback
-- Includes readiness scoring, dynamic themes, local data storage, and session summaries
-- Designed around privacy-first local storage and polished mobile UI
-
-### Focus Areas
-`AI Fitness` `Pose Tracking` `Mobile UX` `Local-First Data` `Health Tech`
-
-### Tech Stack
-`React Native` `Expo` `Vision Camera` `Skia` `SQLite` `TypeScript`
 
 ---
 
