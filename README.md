@@ -15,7 +15,7 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 ---
 
 # 🚀 About Me
-
+- 🎓 Pursuing M.Tech in Computer Science & Engineering at GITAM University
 - 📱 Building mobile-first apps for iOS and Android
 - 🎮 Creating interactive games, physics puzzles, and browser/mobile experiments
 - 🤖 Exploring AI-assisted product ideas like pose tracking, readiness scoring, and local-first health tools
