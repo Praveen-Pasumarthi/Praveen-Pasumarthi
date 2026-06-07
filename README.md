@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Praveen Pasumarthi</h1>
 
 <h3 align="center">
-Mobile App Developer | Game Developer
+Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapatnam
 </h3>
 
 <p align="center">
