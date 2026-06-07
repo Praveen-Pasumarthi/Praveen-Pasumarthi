@@ -17,6 +17,7 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 # 🚀 About Me
 
 - 📱 Building mobile-first apps for iOS and Android
+- 📿 Co-founder of Japam, a shipped mobile app with 10,000+ downloads on the Play Store
 - 🎮 Creating interactive games, physics puzzles, and browser/mobile experiments
 - 🤖 Exploring AI-assisted product ideas like pose tracking, readiness scoring, and local-first health tools
 - ⚙️ Working across Flutter, React Native, Expo, Unity, Flame, Capacitor, and TypeScript
@@ -97,15 +98,33 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 
 # 🚀 Featured Projects
 
+
+## 📿 Japam
+
+- Co-founder of Japam, a shipped mobile app available on Android and iOS
+- Published on both the Google Play Store and Apple App Store
+- Reached 10,000+ downloads on the Play Store
+- Helped transition the app from native Kotlin Android to a modern React Native codebase
+- Contributing to product direction, mobile implementation, UI flow, and release readiness
+
+### Focus Areas
+`React Native` `Mobile Development` `Product Building` `Co-Founder` `App UI` `Cross-Platform Apps`
+
+### Tech Stack
+`React Native` `TypeScript` `JavaScript` `Android` `Firebase` `Gradle` `Git`
+
+---
+
 ## 🌌 Milk-A-Way
 
-- Gravity-based puzzle game for iOS and Android
+- Published gravity-based puzzle game for iOS and Android
+- Available on both the Google Play Store and Apple App Store
 - Launch-and-orbit gameplay built around gravity wells, hazards, and goal rings
 - Includes procedural level generation across 1,200 levels and a custom level builder tool
 - Focused on physics, replayability, and satisfying mobile game feel
 
 ### Focus Areas
-`Flutter` `Flame` `Game Physics` `Procedural Levels` `Mobile Games`
+`Flutter` `Flame` `Game Physics` `Procedural Levels` `Mobile Games` `Published App`
 
 ### Tech Stack
 `Dart` `Flutter` `Flame` `shared_preferences` `iOS` `Android`
@@ -129,12 +148,13 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 
 ## 🧱 Brickly
 
-- Interactive web/mobile game project with Capacitor builds
-- Custom browser-based UI with mobile packaging support
-- Built through fast iteration on layout, interaction, and game presentation
+- Interactive web/mobile game currently in the deployment phase
+- Built around polished gameplay, responsive UI, and mobile-ready presentation
+- Preparing mobile packaging and release flow with Capacitor
+- Focused on smooth interaction, clean visuals, and production readiness
 
 ### Focus Areas
-`Interactive Web` `Mobile Packaging` `Game UI` `Product Polish`
+`Game Development` `Interactive Web` `Mobile Packaging` `Deployment` `Product Polish`
 
 ### Tech Stack
 `JavaScript` `HTML` `CSS` `Capacitor`
@@ -166,6 +186,8 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 
 ### Tech Stack
 `Vite` `JavaScript` `HTML` `CSS`
+
+---
 
 ---
 
