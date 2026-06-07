@@ -5,7 +5,7 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Mobile+App+Developer;Flutter+%26+React+Native+Builder;Game+Developer+%26+Physics+Puzzle+Maker;AI-Powered+Fitness+App+Explorer;Building+Polished+Interactive+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Mobile+App+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
