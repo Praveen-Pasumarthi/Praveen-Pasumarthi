@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Praveen Pasumarthi</h1>
 
 <h3 align="center">
-Mobile App Developer | Game Builder | AI-Powered Product Explorer
+Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapatnam
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 ---
 
 # 🚀 About Me
-
+- 🎓 Pursuing M.Tech in Computer Science & Engineering at GITAM University
 - 📱 Building mobile-first apps for iOS and Android
 - 📿 Co-founder of Japam, a shipped mobile app with 10,000+ downloads on the Play Store
 - 🎮 Creating interactive games, physics puzzles, and browser/mobile experiments
@@ -32,12 +32,8 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 - Cross-Platform Products
 - Game Development
 - Physics-Based Gameplay
-- AI-Powered Fitness Tools
 - Computer Vision Interfaces
-- Local-First App Data
-- Procedural Level Design
 - Interactive Web Experiences
-- Product UI Polish
 
 ---
 
@@ -128,21 +124,6 @@ Mobile App Developer | Game Builder | AI-Powered Product Explorer
 
 ### Tech Stack
 `Dart` `Flutter` `Flame` `shared_preferences` `iOS` `Android`
-
----
-
-## ⚡ Kinetic Fitness Tracker
-
-- AI-powered fitness tracker built with React Native and Expo
-- Uses pose tracking concepts for workout form and movement feedback
-- Includes readiness scoring, dynamic themes, local data storage, and session summaries
-- Designed around privacy-first local storage and polished mobile UI
-
-### Focus Areas
-`AI Fitness` `Pose Tracking` `Mobile UX` `Local-First Data` `Health Tech`
-
-### Tech Stack
-`React Native` `Expo` `Vision Camera` `Skia` `SQLite` `TypeScript`
 
 ---
 
