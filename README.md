@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Praveen Pasumarthi</h1>
+<h1 align="center">Hi 👋, I'm Praveen Pasumarthi</h1>
 
 <h3 align="center">
 Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapatnam
@@ -175,8 +175,8 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen-Pasumarthi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Pasumarthi&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-alpha.vercel.app/api?username=Praveen-Pasumarthi&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Praveen-Pasumarthi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -188,7 +188,7 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveen-Pasumarthi&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Praveen-Pasumarthi&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
@@ -224,6 +224,10 @@ Mobile App Developer | Game Developer | M.Tech CSE @Gitam University, Visakhapat
 
 <a href="https://github.com/Praveen-Pasumarthi?tab=stars" target="blank">
 <img src="https://img.shields.io/badge/Interests-222222?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+<a href="mailto:praveensssvv@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
